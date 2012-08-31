@@ -1,0 +1,14 @@
+1.To run the program type
+  python Main.py
+
+2.To set timetable with slots and modify it press Modify timetable button.
+  After setting the timetable press Save and then Exit.
+  
+3.To set details of the slots, press on the respective slot and enter the details.
+  Press save to save the details and then Exit to go back to main window.
+  
+4.To enter absence on a particular day for a specific slot, press that slot in the main window. The slot details will open and in that calendar, double-
+  click the day you were absent and it will be marked. If by mistake you double-click on the wrong day, double-click it again to remove the mark.
+
+5.To mark days for assignment submission, double-click that day on the calendar in the main window and fill in the details of the assignment and Save.
+  To delete the assignment press delete.
